@@ -6,7 +6,7 @@ let dataMessage;
 
 
 
-mongoose.connect('mongodb+srv://mohammadawwad30520:Mohammad211@cluster0.ichsfhv.mongodb.net/', {
+mongoose.connect('your url', {
     useNewUrlParser: true,
     useUnifiedTopology: true
   })
